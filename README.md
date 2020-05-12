@@ -15,11 +15,14 @@ with the data visualization plots that are plotted serially on a set of output w
 -> The file "### FINAL HEART DISEASE QUIZ ###.py" must be executed in command pmt
 or terminal to run the GUI version of the quiz. Once the 1st window opens, close it to move to the
 next window of the quiz and continue the process to reach the end of the visualization.
+
 -> The file "HealthQuiz html version" can be run to open the quiz in html text format on the 
 browser window in order to get an idea of the quiz contents.
+
 -> The files "accuracy.py", "graphdemo.py", "Exploration File 1.py" and "Exploration File 2.py"
 are extra files that gives the user the freedom to explore variations of implementable code for further
 visualization.
+
 -> The file "NEWDATA.csv" contains the Excel Comma separated Variable file that contains the data related
 to 300 heart disease records which helps in estimating the Quiz participant's heart disease risk by data 
 visualization. 
